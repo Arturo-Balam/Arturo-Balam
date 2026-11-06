@@ -8,11 +8,13 @@ Data Engineering student at Universidad Politécnica de Yucatán (UPY).
 
 ## Experience & Internships
 
-- **Engineering Intern | Sintek Analytics** (Feb 2026 - Mar 2026)
-  - Developed C++ runtime components (`spider-runtime`, `bicho-runtime`) and code generator tooling (`pygen`) for an embeddable scripting language.
-
-- **Data Engineering Intern (Estancia 1) | UPY** (Feb 2026)
+- **Data Engineering Intern (Internship 1) | UPY** (Feb 2025)
   - Designed and implemented the "Notifier for a dataset" project to process dataset updates and trigger automated alerts.
+
+- **Engineering Intern | Sintek Analytics (Internship 2)** (Feb 2026 - Mar 2026)
+  - Developed C++ runtime components (`spider-runtime`) and code generator tooling (`pygen`) for an embeddable scripting language.
+
+
 
 ## Featured Projects
 
