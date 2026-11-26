@@ -29,7 +29,6 @@ Data pipelines, ETL architecture, machine learning models and systems software.
 - [SimCSE Sentence Embeddings](https://huggingface.co/ArturoBE21/simcse-bert-base-snli-sup): Replication of supervised and unsupervised SimCSE with PyTorch. The published model reaches 82.29 (dev) and 78.26 (test) Spearman on STS-B.
 - [Product Manager Consultation System](https://github.com/Arturo-Balam/product-manager-consultation-system): Web application for managing and querying a products database, built with Flask and SQLite.
 - [Gesture Dashboard](https://github.com/Arturo-Balam/CW8-gesture-dashboard): Real-time hand and finger detection with a live statistics dashboard, using MediaPipe and OpenCV.
-- Conway's Game of Life Benchmarks: Performance comparison of C++ and Cython implementations.
 
 ## Education and Certifications
 
